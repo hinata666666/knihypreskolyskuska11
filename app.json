@@ -1,0 +1,16 @@
+{
+  "name": "knihypreskolyskuska11",
+  "description": "knihypreskoly",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
